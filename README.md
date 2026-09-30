@@ -1,0 +1,2 @@
+# premium-soundboard-001-soundboard-tap-tone-frequency
+Tired of juggling sticky notes, spreadsheets, and audio files to track tap tones and frequencies? The Soundboard Tap Tone Frequency Hub is your centralized Notion command center for every note, harmonic, and tuning adjustment.  This template eliminates the chaos of scattered tuning data by giving you a structured, searchable database for tap tones
